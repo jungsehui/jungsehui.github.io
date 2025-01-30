@@ -9,7 +9,7 @@ version: 2
 name: 정세희
 title: 백엔드 엔지니어
 email: jungsehui@naver.com
-website: www.github.com/jungsehui
+website: https://sehui-ing.tistory.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +22,7 @@ github_username:  jungsehui
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: jsh1454619@gmail.com
+linkedin_username: https://www.linkedin.com/feed/
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
